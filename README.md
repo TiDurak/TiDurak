@@ -2,10 +2,19 @@
 
 My name is **UUUANYA**, I'm from Ukraine
 
-- 🌱 I’m currently learning C#, OOP in Python, Discord.py, aiogram
+- 🌱 I’m currently learning C++
+- 💼 Have experience in:
+  - C#
+  - C++
+  - Python (and discord.py, aiogram)
+  - JavaScript
+  - Golang
+  - Pascal (the worst language)
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing -_-
-- 📫 How to reach me: mail@example.com
+- 📫 How to reach me:
+  - [Discord](https://discord.gg/4dEmQjt)
+  - [Website](https://gdisclaimer.ga/)
 - ⚡ Fun fact: this fact is not funny
 - 📝 Some my projects: 
   - Debilbot discord.py bot
