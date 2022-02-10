@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **UUUANYA**, I'm from Ukraine
+I'm just developer from Ukraine
 
 - 🌱 I’m currently learning C++
 - 💼 Have experience in:
