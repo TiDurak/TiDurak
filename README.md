@@ -9,7 +9,9 @@ I'm just developer from Ukraine
   - Python (and discord.py, aiogram)
   - JavaScript
   - Golang
-  - Pascal (the worst language)
+  - Pascal
+  - SQL
+  - PHP (No, god, please, no!)
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing -_-
 - 📫 How to reach me:
@@ -20,5 +22,6 @@ I'm just developer from Ukraine
   - Debilbot discord.py bot
   - Hecker animation project
   - BetterDiscord theme (GDiscord)
-  - StopCovid (in processing)
+  - StopCovid (in development)
+  - ether (in development too)
   - https://gdisclaimer.ga website
