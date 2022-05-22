@@ -20,6 +20,7 @@ I'm just developer from Ukraine
 - ⚡ Fun fact: this fact is not funny
 - 📝 Some my projects: 
   - Debilbot discord.py bot
+  - DiscordApocalypse crash bot
   - Hecker animation project
   - BetterDiscord theme (GDiscord)
   - StopCovid (in development)
