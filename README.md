@@ -21,6 +21,7 @@ I'm just developer from Ukraine
 - 📝 Some my projects: 
   - Debilbot discord.py bot
   - DiscordApocalypse crash bot
+  - Google Search Parser (shell)
   - Hecker animation project
   - BetterDiscord theme (GDiscord)
   - StopCovid (in development)
